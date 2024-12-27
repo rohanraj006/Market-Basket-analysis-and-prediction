@@ -1,0 +1,41 @@
+We can characterize the customer segments according to the clusters' mean attributes in the table above : 
+
+Cluster 1 : customers with very low spending score and very low frequency of visits
+Cluster 2 : customers with average spending score and low frequency of visits
+Cluster 3 : customers with high spending scores and high frequency of visits
+Cluster 4 : customers with high spending scores but low frequency of visits
+
+Business insights for the retail store to strategize according to customer segments :
+
+Cluster 1: 
+Customers with Very Low Spending Scores and Very Low Frequency of Visits
+These customers have low loyalty to the store and probably low incomes/ affordability.
+
+The best thing to do is to let them go, as spending resources to gain these customers would be a waste.
+Feedback forms and surveys might help better analyse their lack in satisfaction.
+
+Cluster 2:
+Customers with a moderate spending per visit.
+Their visits are relatively infrequent.
+They are termed as Support.
+
+Promotion Strategies: Offer promotions tailored to encourage more frequent visits. For example, a "visit twice this month and get 10% off your next purchase" campaign.
+Product Recommendations: Suggest products based on their past purchases to increase visit frequency and spending.
+
+Cluster 3: 
+These customers are high spenders.
+They visit the store frequently.
+They are termed as Fans.
+
+Loyalty Programs: These are the most valuable customers. Ensure they are part of a loyalty program that rewards their frequent and high spending.
+Exclusive Offers: Provide them with exclusive offers, early access to sales, or VIP events to maintain their loyalty and encourage continued high spending.
+
+Cluster 4:
+These customers spend a lot per visit.
+They visit the store infrequently.
+They are termed as Roamers. 
+
+Incentivize More Visits: Implement strategies to make them visit more frequently, such as personalized reminders, special offers, and events.
+High-Value Marketing: Focus on high-value marketing campaigns that highlight premium products or services, which these customers are likely interested in.
+Improve quality and functionality of ordering process and delivery.
+
